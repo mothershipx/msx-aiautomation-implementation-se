@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: AI/Automation Implementation Services for SMBs
+slug: aiautomation-implementation-se
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: aiautomation-implementation-se.msx.dev
